@@ -1,2 +1,2 @@
-# introduction
+# Introduction
 code for my work on my introduction
